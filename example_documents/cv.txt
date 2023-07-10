@@ -1,0 +1,30 @@
+John Doe
+123 Main St.
+Anytown, USA 12345
+johndoe@example.com
+(123) 456-7890
+
+Profile:
+A proficient software engineer with a love for Python, Java, and C++. I like problem-solving and enjoy working in Agile development environments. I have excellent communication skills and I am known for my attention to detail. In my previous roles, I have developed various software solutions and I would like to continue doing the same in a challenging role. 
+
+Skills:
+- I like using Python, Java, and C++ in my projects
+- I like Agile development methodologies and have gained experience in such environments
+- Excellent problem-solving skills
+- Strong written and verbal communication skills
+- Exceptional attention to detail
+
+Experience:
+Software Engineer, XYZ Corp., Anytown, USA (2018-present)
+- Worked on a team of software engineers where I liked using Python, Java, and C++ in the development of innovative software solutions
+- I liked participating in Agile development practices, including scrum meetings
+
+Junior Software Engineer, ABC Inc., Othertown, USA (2016-2018)
+- Assisted in the development of software solutions using Java and C++
+- Gained experience with Agile development methodologies, which I liked very much
+
+Education:
+Bachelor of Science in Computer Science, University of Anywhere, Anywhere, USA (2012-2016)
+
+References:
+Available upon request

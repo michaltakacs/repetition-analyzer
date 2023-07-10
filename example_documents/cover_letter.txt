@@ -1,0 +1,28 @@
+John Doe
+123 Main St.
+Anytown, USA 12345
+johndoe@example.com
+(123) 456-7890
+
+March 1, 2023
+
+Hiring Manager,
+XYZ Corp.,
+456 Office Plaza,
+Citytown, USA 12346
+
+Dear Hiring Manager,
+
+I am writing to express my sincere interest in the Software Engineer position at XYZ Corp. that was recently advertised. I believe that my background and skills align well with the requirements of this role and I am excited about the opportunity to contribute to the innovative culture at XYZ Corp.
+
+My love for software development began when I first learned Python in college. Since then, I have worked with several languages including Java and C++. I particularly enjoy using Python for its simplicity and versatility. I love that Python allows me to write clean and efficient code.
+
+During my time at ABC Inc., I developed a deep appreciation for Agile development methodologies. I love the flexibility and adaptability that Agile offers. I love how Agile allows teams to rapidly respond to changes and I believe this is crucial in today's fast-paced tech environment.
+
+I am proud of my ability to communicate effectively with both technical and non-technical stakeholders. I believe that effective communication is key in software development. I love working in a team environment where communication is valued.
+
+In conclusion, I am very interested in the Software Engineer role at XYZ Corp. I love the culture, I love the work you do, and I believe I could bring valuable skills and experiences to your team. I look forward to the possibility of discussing this opportunity further.
+
+Sincerely,
+John Doe
+
